@@ -1,5 +1,5 @@
 # Image Utils
-Image utils is a simple docker image containing the tools that a use mostly frequently. This image is build in a multi-arch way so it can be used in both `amd64` our `arm64` environments.
+Image utils is a simple docker image containing the tools that a use mostly frequently. This image is built in a multi-arch way so it can be used in both `amd64` our `arm64` environments.
 
 ## Tools Included
 - Mysql Client
